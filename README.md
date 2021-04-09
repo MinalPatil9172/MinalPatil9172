@@ -7,10 +7,10 @@
 
 - ⚡ Fun fact **I think I am funny**
 - Skills:
-  Programming Languages  **c,c++**
-- Frontend Development   **HTML**
-- DataBase  **MySQL**
-- IDE **Visual Studio**
+    Programming Languages  **c,c++**
+-   Frontend Development   **HTML**
+-   DataBase               **MySQL**
+-   IDE                    **Visual Studio**
 
 
 
