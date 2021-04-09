@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Java**
 
 - ⚡ Fun fact **I think I am funny**
-- skills Programming Languages  **c,c++
+- skills Programming Languages  **c,c++**
 
 
 
